@@ -1,0 +1,17 @@
+{
+    "labels_string": [
+        "real",
+        "white-box",
+        "black-box"
+    ],
+    "labels_encoded": [
+        0,
+        1,
+        2
+    ],
+    "learning_rate": 0.001,
+    "learning_rate_scheduler": 0.0005,
+    "epochs": 50,
+    "batch_size": 128,
+    "model_summary": "None"
+}
